@@ -78,7 +78,14 @@ void loop() {
 
 ## Versions
 
-### v0.0.1 (Current Stable version)
+### v0.5 (Current Stable version)
+
+### Codename: Haparanda
+
+#### September, 2021
+
+* Code ready for first release
+* Code needs to be cleaned, have to remove unused variables
 
 #### April, 2021
 
